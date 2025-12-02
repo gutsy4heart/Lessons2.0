@@ -1,0 +1,15 @@
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\bin\Debug\net8.0\Polymorphism.exe
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\bin\Debug\net8.0\Polymorphism.deps.json
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\bin\Debug\net8.0\Polymorphism.runtimeconfig.json
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\bin\Debug\net8.0\Polymorphism.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\bin\Debug\net8.0\Polymorphism.pdb
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\obj\Debug\net8.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfoInputs.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfo.cs
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\obj\Debug\net8.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\obj\Debug\net8.0\Polymorphism.sourcelink.json
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\obj\Debug\net8.0\Polymorphism.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\obj\Debug\net8.0\refint\Polymorphism.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\obj\Debug\net8.0\Polymorphism.pdb
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\obj\Debug\net8.0\Polymorphism.genruntimeconfig.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\Polymorphism\obj\Debug\net8.0\ref\Polymorphism.dll

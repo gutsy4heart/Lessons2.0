@@ -1,0 +1,15 @@
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\bin\Debug\net8.0\Interface.exe
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\bin\Debug\net8.0\Interface.deps.json
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\bin\Debug\net8.0\Interface.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\bin\Debug\net8.0\Interface.pdb
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\obj\Debug\net8.0\Interface.sourcelink.json
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\obj\Debug\net8.0\Interface.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\obj\Debug\net8.0\refint\Interface.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\obj\Debug\net8.0\Interface.pdb
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\Interface\obj\Debug\net8.0\ref\Interface.dll

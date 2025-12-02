@@ -1,0 +1,15 @@
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\bin\Debug\net8.0\Abstraction.exe
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\bin\Debug\net8.0\Abstraction.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\obj\Debug\net8.0\Abstraction.sourcelink.json
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\obj\Debug\net8.0\Abstraction.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll

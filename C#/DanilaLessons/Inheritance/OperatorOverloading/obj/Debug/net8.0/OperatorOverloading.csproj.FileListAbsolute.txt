@@ -1,0 +1,15 @@
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.exe
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.deps.json
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.runtimeconfig.json
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.pdb
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.AssemblyInfoInputs.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.AssemblyInfo.cs
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.sourcelink.json
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\obj\Debug\net8.0\refint\OperatorOverloading.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.pdb
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.genruntimeconfig.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\OperatorOverloading\obj\Debug\net8.0\ref\OperatorOverloading.dll

@@ -1,0 +1,15 @@
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\obj\Debug\net8.0\ArrayList.sourcelink.json
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\bin\Debug\net8.0\ArrayList.exe
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\bin\Debug\net8.0\ArrayList.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\obj\Debug\net8.0\ArrayList.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll

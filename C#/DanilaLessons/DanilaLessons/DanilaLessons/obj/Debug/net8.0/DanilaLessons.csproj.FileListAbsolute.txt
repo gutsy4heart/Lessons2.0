@@ -1,0 +1,15 @@
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\bin\Debug\net8.0\DanilaLessons.exe
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\bin\Debug\net8.0\DanilaLessons.deps.json
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\bin\Debug\net8.0\DanilaLessons.runtimeconfig.json
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\bin\Debug\net8.0\DanilaLessons.dll
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\bin\Debug\net8.0\DanilaLessons.pdb
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\obj\Debug\net8.0\DanilaLessons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\obj\Debug\net8.0\DanilaLessons.AssemblyInfoInputs.cache
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\obj\Debug\net8.0\DanilaLessons.AssemblyInfo.cs
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\obj\Debug\net8.0\DanilaLessons.csproj.CoreCompileInputs.cache
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\obj\Debug\net8.0\DanilaLessons.sourcelink.json
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\obj\Debug\net8.0\DanilaLessons.dll
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\obj\Debug\net8.0\refint\DanilaLessons.dll
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\obj\Debug\net8.0\DanilaLessons.pdb
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\obj\Debug\net8.0\DanilaLessons.genruntimeconfig.cache
+D:\Lessons\C#\DanilaLessons\DanilaLessons\DanilaLessons\obj\Debug\net8.0\ref\DanilaLessons.dll

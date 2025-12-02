@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lessons\\C#\\DanilaLessons\\DanilaLessons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A956B4B9-7331-4895-AA49-A6CE172AB7E7}|DanilaLessons\\DanilaLessons.csproj|d:\\lessons\\c#\\danilalessons\\danilalessons\\danilalessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A956B4B9-7331-4895-AA49-A6CE172AB7E7}|DanilaLessons\\DanilaLessons.csproj|solutionrelative:danilalessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A956B4B9-7331-4895-AA49-A6CE172AB7E7}|DanilaLessons\\DanilaLessons.csproj|d:\\lessons\\c#\\danilalessons\\danilalessons\\danilalessons\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A956B4B9-7331-4895-AA49-A6CE172AB7E7}|DanilaLessons\\DanilaLessons.csproj|solutionrelative:danilalessons\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A956B4B9-7331-4895-AA49-A6CE172AB7E7}|DanilaLessons\\DanilaLessons.csproj|d:\\lessons\\c#\\danilalessons\\danilalessons\\danilalessons\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A956B4B9-7331-4895-AA49-A6CE172AB7E7}|DanilaLessons\\DanilaLessons.csproj|solutionrelative:danilalessons\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Lessons\\C#\\DanilaLessons\\DanilaLessons\\DanilaLessons\\Employee.cs",
+              "RelativeDocumentMoniker": "DanilaLessons\\Employee.cs",
+              "ToolTip": "D:\\Lessons\\C#\\DanilaLessons\\DanilaLessons\\DanilaLessons\\Employee.cs",
+              "RelativeToolTip": "DanilaLessons\\Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T08:22:41.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Lessons\\C#\\DanilaLessons\\DanilaLessons\\DanilaLessons\\Student.cs",
+              "RelativeDocumentMoniker": "DanilaLessons\\Student.cs",
+              "ToolTip": "D:\\Lessons\\C#\\DanilaLessons\\DanilaLessons\\DanilaLessons\\Student.cs",
+              "RelativeToolTip": "DanilaLessons\\Student.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T13:39:29.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lessons\\C#\\DanilaLessons\\DanilaLessons\\DanilaLessons\\Program.cs",
+              "RelativeDocumentMoniker": "DanilaLessons\\Program.cs",
+              "ToolTip": "D:\\Lessons\\C#\\DanilaLessons\\DanilaLessons\\DanilaLessons\\Program.cs*",
+              "RelativeToolTip": "DanilaLessons\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwIsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:15:25.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

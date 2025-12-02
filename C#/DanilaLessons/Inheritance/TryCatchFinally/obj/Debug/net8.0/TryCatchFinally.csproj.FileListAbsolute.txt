@@ -1,0 +1,15 @@
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.exe
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.deps.json
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.runtimeconfig.json
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.pdb
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.AssemblyInfoInputs.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.AssemblyInfo.cs
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.sourcelink.json
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\obj\Debug\net8.0\refint\TryCatchFinally.dll
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.pdb
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.genruntimeconfig.cache
+D:\Lessons\C#\DanilaLessons\Inheritance\TryCatchFinally\obj\Debug\net8.0\ref\TryCatchFinally.dll
