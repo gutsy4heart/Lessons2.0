@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchFinally", "TryCatch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassCollections", "ArrayList\ClassCollections.csproj", "{6FEF5DE7-81E0-4A7B-87E1-A298EFA64B29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_app", "List_app\List_app.csproj", "{9BE251B3-EA78-4535-AC92-0D48A6FA5863}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{6FEF5DE7-81E0-4A7B-87E1-A298EFA64B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FEF5DE7-81E0-4A7B-87E1-A298EFA64B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FEF5DE7-81E0-4A7B-87E1-A298EFA64B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE251B3-EA78-4535-AC92-0D48A6FA5863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE251B3-EA78-4535-AC92-0D48A6FA5863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE251B3-EA78-4535-AC92-0D48A6FA5863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE251B3-EA78-4535-AC92-0D48A6FA5863}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

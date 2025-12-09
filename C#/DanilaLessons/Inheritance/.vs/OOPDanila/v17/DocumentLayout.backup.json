@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Lessons\\C#\\DanilaLessons\\Inheritance\\",
+  "WorkspaceRootPath": "D:\\Lessons_prt2\\C#\\DanilaLessons\\Inheritance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FEF5DE7-81E0-4A7B-87E1-A298EFA64B29}|ArrayList\\ClassCollections.csproj|d:\\lessons\\c#\\danilalessons\\inheritance\\arraylist\\hashtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FEF5DE7-81E0-4A7B-87E1-A298EFA64B29}|ArrayList\\ClassCollections.csproj|solutionrelative:arraylist\\hashtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FEF5DE7-81E0-4A7B-87E1-A298EFA64B29}|ArrayList\\ClassCollections.csproj|d:\\lessons\\c#\\danilalessons\\inheritance\\arraylist\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FEF5DE7-81E0-4A7B-87E1-A298EFA64B29}|ArrayList\\ClassCollections.csproj|solutionrelative:arraylist\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FEF5DE7-81E0-4A7B-87E1-A298EFA64B29}|ArrayList\\ClassCollections.csproj|d:\\lessons\\c#\\danilalessons\\inheritance\\arraylist\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FEF5DE7-81E0-4A7B-87E1-A298EFA64B29}|ArrayList\\ClassCollections.csproj|solutionrelative:arraylist\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BE251B3-EA78-4535-AC92-0D48A6FA5863}|List_app\\List_app.csproj|d:\\lessons_prt2\\c#\\danilalessons\\inheritance\\list_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE251B3-EA78-4535-AC92-0D48A6FA5863}|List_app\\List_app.csproj|solutionrelative:list_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Stack.cs",
-              "DocumentMoniker": "D:\\Lessons\\C#\\DanilaLessons\\Inheritance\\ArrayList\\Stack.cs",
-              "RelativeDocumentMoniker": "ArrayList\\Stack.cs",
-              "ToolTip": "D:\\Lessons\\C#\\DanilaLessons\\Inheritance\\ArrayList\\Stack.cs",
-              "RelativeToolTip": "ArrayList\\Stack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T14:02:55.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ArrayList.cs",
-              "DocumentMoniker": "D:\\Lessons\\C#\\DanilaLessons\\Inheritance\\ArrayList\\ArrayList.cs",
-              "RelativeDocumentMoniker": "ArrayList\\ArrayList.cs",
-              "ToolTip": "D:\\Lessons\\C#\\DanilaLessons\\Inheritance\\ArrayList\\ArrayList.cs",
-              "RelativeToolTip": "ArrayList\\ArrayList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T14:02:54.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HashTables.cs",
-              "DocumentMoniker": "D:\\Lessons\\C#\\DanilaLessons\\Inheritance\\ArrayList\\HashTables.cs",
-              "RelativeDocumentMoniker": "ArrayList\\HashTables.cs",
-              "ToolTip": "D:\\Lessons\\C#\\DanilaLessons\\Inheritance\\ArrayList\\HashTables.cs*",
-              "RelativeToolTip": "ArrayList\\HashTables.cs*",
-              "ViewState": "AgIAADwAAAAAAAAAAAAcwEUAAAAZAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lessons_prt2\\C#\\DanilaLessons\\Inheritance\\List_app\\Program.cs",
+              "RelativeDocumentMoniker": "List_app\\Program.cs",
+              "ToolTip": "D:\\Lessons_prt2\\C#\\DanilaLessons\\Inheritance\\List_app\\Program.cs",
+              "RelativeToolTip": "List_app\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAIwGUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T13:59:53.153Z",
+              "WhenOpened": "2025-12-05T13:26:26.242Z",
               "EditorCaption": ""
             }
           ]

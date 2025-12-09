@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lessons\\C#\\DanilaLessons\\Inheritance\\ArrayList\\ClassCollections.csproj": {}
+    "D:\\Lessons_prt2\\C#\\DanilaLessons\\Inheritance\\ArrayList\\ClassCollections.csproj": {}
   },
   "projects": {
-    "D:\\Lessons\\C#\\DanilaLessons\\Inheritance\\ArrayList\\ClassCollections.csproj": {
+    "D:\\Lessons_prt2\\C#\\DanilaLessons\\Inheritance\\ArrayList\\ClassCollections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Lessons\\C#\\DanilaLessons\\Inheritance\\ArrayList\\ClassCollections.csproj",
+        "projectUniqueName": "D:\\Lessons_prt2\\C#\\DanilaLessons\\Inheritance\\ArrayList\\ClassCollections.csproj",
         "projectName": "ClassCollections",
-        "projectPath": "D:\\Lessons\\C#\\DanilaLessons\\Inheritance\\ArrayList\\ClassCollections.csproj",
+        "projectPath": "D:\\Lessons_prt2\\C#\\DanilaLessons\\Inheritance\\ArrayList\\ClassCollections.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Lessons\\C#\\DanilaLessons\\Inheritance\\ArrayList\\obj\\",
+        "outputPath": "D:\\Lessons_prt2\\C#\\DanilaLessons\\Inheritance\\ArrayList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

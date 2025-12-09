@@ -24,6 +24,7 @@
     <ProjectGuid>{e03d9b32-8aa7-487f-9760-5cf672267ac9}</ProjectGuid>
     <RootNamespace>EgersLesson</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>EdgarsLesson</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -123,7 +124,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="datatypes.cpp" />
+    <ClCompile Include="doWhile.cpp" />
+    <ClCompile Include="elseIf.cpp" />
+    <ClCompile Include="gameDoWhile1.cpp" />
+    <ClCompile Include="gameDoWhile2.cpp" />
+    <ClCompile Include="hw1.cpp" />
+    <ClCompile Include="hw2.cpp" />
+    <ClCompile Include="ifElse.cpp" />
     <ClCompile Include="Intro.cpp" />
+    <ClCompile Include="loopWhile.cpp" />
     <ClCompile Include="Variables.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
