@@ -1,0 +1,15 @@
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\bin\Debug\net8.0\ICollection.exe
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\bin\Debug\net8.0\ICollection.deps.json
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\bin\Debug\net8.0\ICollection.runtimeconfig.json
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\bin\Debug\net8.0\ICollection.dll
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\bin\Debug\net8.0\ICollection.pdb
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\obj\Debug\net8.0\ICollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\obj\Debug\net8.0\ICollection.AssemblyInfoInputs.cache
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\obj\Debug\net8.0\ICollection.AssemblyInfo.cs
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\obj\Debug\net8.0\ICollection.csproj.CoreCompileInputs.cache
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\obj\Debug\net8.0\ICollection.sourcelink.json
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\obj\Debug\net8.0\ICollection.dll
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\obj\Debug\net8.0\refint\ICollection.dll
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\obj\Debug\net8.0\ICollection.pdb
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\obj\Debug\net8.0\ICollection.genruntimeconfig.cache
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\ICollection\obj\Debug\net8.0\ref\ICollection.dll

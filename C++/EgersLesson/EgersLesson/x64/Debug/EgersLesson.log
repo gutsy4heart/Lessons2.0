@@ -1,4 +1,3 @@
 ﻿D:\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (EgersLesson.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  gameDoWhile1.cpp
-D:\Lessons_prt2\C++\EgersLesson\EgersLesson\gameDoWhile1.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ifElse.cpp
   EgersLesson.vcxproj -> D:\Lessons_prt2\C++\EgersLesson\x64\Debug\EdgarsLesson.exe

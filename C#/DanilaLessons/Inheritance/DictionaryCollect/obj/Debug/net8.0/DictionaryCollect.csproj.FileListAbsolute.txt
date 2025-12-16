@@ -1,0 +1,15 @@
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\bin\Debug\net8.0\DictionaryCollect.exe
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\bin\Debug\net8.0\DictionaryCollect.deps.json
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\bin\Debug\net8.0\DictionaryCollect.runtimeconfig.json
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\bin\Debug\net8.0\DictionaryCollect.dll
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\bin\Debug\net8.0\DictionaryCollect.pdb
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\obj\Debug\net8.0\DictionaryCollect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\obj\Debug\net8.0\DictionaryCollect.AssemblyInfoInputs.cache
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\obj\Debug\net8.0\DictionaryCollect.AssemblyInfo.cs
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\obj\Debug\net8.0\DictionaryCollect.csproj.CoreCompileInputs.cache
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\obj\Debug\net8.0\DictionaryCollect.sourcelink.json
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\obj\Debug\net8.0\DictionaryCollect.dll
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\obj\Debug\net8.0\refint\DictionaryCollect.dll
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\obj\Debug\net8.0\DictionaryCollect.pdb
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\obj\Debug\net8.0\DictionaryCollect.genruntimeconfig.cache
+D:\Lessons_prt2\C#\DanilaLessons\Inheritance\DictionaryCollect\obj\Debug\net8.0\ref\DictionaryCollect.dll

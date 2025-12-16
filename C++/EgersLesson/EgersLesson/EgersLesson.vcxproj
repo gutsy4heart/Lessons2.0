@@ -127,6 +127,7 @@
     <ClCompile Include="datatypes.cpp" />
     <ClCompile Include="doWhile.cpp" />
     <ClCompile Include="elseIf.cpp" />
+    <ClCompile Include="for.cpp" />
     <ClCompile Include="gameDoWhile1.cpp" />
     <ClCompile Include="gameDoWhile2.cpp" />
     <ClCompile Include="hw1.cpp" />

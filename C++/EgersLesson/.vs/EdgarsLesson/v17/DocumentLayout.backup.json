@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Lessons_prt2\\C\u002B\u002B\\EgersLesson\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E03D9B32-8AA7-487F-9760-5CF672267AC9}|EgersLesson\\EgersLesson.vcxproj|D:\\Lessons_prt2\\C\u002B\u002B\\EgersLesson\\EgersLesson\\gameDoWhile1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E03D9B32-8AA7-487F-9760-5CF672267AC9}|EgersLesson\\EgersLesson.vcxproj|solutionrelative:EgersLesson\\gameDoWhile1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E03D9B32-8AA7-487F-9760-5CF672267AC9}|EgersLesson\\EgersLesson.vcxproj|D:\\Lessons_prt2\\C\u002B\u002B\\EgersLesson\\EgersLesson\\ifElse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E03D9B32-8AA7-487F-9760-5CF672267AC9}|EgersLesson\\EgersLesson.vcxproj|solutionrelative:EgersLesson\\ifElse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "gameDoWhile1.cpp",
-              "DocumentMoniker": "D:\\Lessons_prt2\\C\u002B\u002B\\EgersLesson\\EgersLesson\\gameDoWhile1.cpp",
-              "RelativeDocumentMoniker": "EgersLesson\\gameDoWhile1.cpp",
-              "ToolTip": "D:\\Lessons_prt2\\C\u002B\u002B\\EgersLesson\\EgersLesson\\gameDoWhile1.cpp*",
-              "RelativeToolTip": "EgersLesson\\gameDoWhile1.cpp*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Title": "ifElse.cpp",
+              "DocumentMoniker": "D:\\Lessons_prt2\\C\u002B\u002B\\EgersLesson\\EgersLesson\\ifElse.cpp",
+              "RelativeDocumentMoniker": "EgersLesson\\ifElse.cpp",
+              "ToolTip": "D:\\Lessons_prt2\\C\u002B\u002B\\EgersLesson\\EgersLesson\\ifElse.cpp*",
+              "RelativeToolTip": "EgersLesson\\ifElse.cpp*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-09T08:08:12.933Z",
+              "WhenOpened": "2025-12-15T07:31:00.303Z",
               "EditorCaption": ""
             }
           ]
