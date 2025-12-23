@@ -4,11 +4,72 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99d3e7ed-b53d-4a97-a8eb-07890228d279" name="Changes" comment="" />
+    <list default="true" id="99d3e7ed-b53d-4a97-a8eb-07890228d279" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/CopilotIndices/17.14.1518.61961/CodeChunks.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/CopilotIndices/17.14.1518.61961/CodeChunks.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/CopilotIndices/17.14.1518.61961/SemanticSymbols.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/CopilotIndices/17.14.1518.61961/SemanticSymbols.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/FileContentIndex/c5fdfafe-6be4-496c-bb48-baba7db28783.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/ProjectEvaluation/oopdanila.metadata.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/ProjectEvaluation/oopdanila.metadata.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/ProjectEvaluation/oopdanila.projects.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/ProjectEvaluation/oopdanila.projects.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/ProjectEvaluation/oopdanila.strings.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/ProjectEvaluation/oopdanila.strings.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Abstraction/obj/Debug/net8.0/Abstraction.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Abstraction/obj/Debug/net8.0/Abstraction.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Abstraction/obj/Debug/net8.0/Abstraction.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Abstraction/obj/Debug/net8.0/Abstraction.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/ArrayList/obj/Debug/net8.0/ClassCollections.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/ArrayList/obj/Debug/net8.0/ClassCollections.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/ArrayList/obj/Debug/net8.0/ClassCollections.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/ArrayList/obj/Debug/net8.0/ClassCollections.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/DictionaryCollect/obj/Debug/net8.0/DictionaryCollect.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/DictionaryCollect/obj/Debug/net8.0/DictionaryCollect.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/DictionaryCollect/obj/Debug/net8.0/DictionaryCollect.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/DictionaryCollect/obj/Debug/net8.0/DictionaryCollect.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/ICollection/obj/Debug/net8.0/ICollection.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/ICollection/obj/Debug/net8.0/ICollection.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/ICollection/obj/Debug/net8.0/ICollection.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/ICollection/obj/Debug/net8.0/ICollection.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/IEnumerable/obj/Debug/net8.0/IEnumerable.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/IEnumerable/obj/Debug/net8.0/IEnumerable.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/IEnumerable/obj/Debug/net8.0/IEnumerable.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/IEnumerable/obj/Debug/net8.0/IEnumerable.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/List_app/obj/Debug/net8.0/List_app.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/List_app/obj/Debug/net8.0/List_app.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/List_app/obj/Debug/net8.0/List_app.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/List_app/obj/Debug/net8.0/List_app.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/OOPDanila.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/OOPDanila.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/FileContentIndex/c1ef6e20-5c80-4053-8e4a-5f808bbb2003.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/ifElse.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/ifElse.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/loopWhile.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/loopWhile.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EgersLesson.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EgersLesson.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/ifElse.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/ifElse.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/loopWhile.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/loopWhile.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/x64/Debug/EdgarsLesson.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/x64/Debug/EdgarsLesson.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/x64/Debug/EdgarsLesson.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/x64/Debug/EdgarsLesson.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -23,8 +84,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.arrays.js.executor": "Run",
+    "Node.js.loop.js.executor": "Run",
     "Node.js.main.js.executor": "Run",
+    "Node.js.objects.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -35,6 +100,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/Lessons_prt2/JavaScript/ArtemLessons/src/main.js",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -54,6 +120,9 @@
       <updated>1764690365227</updated>
       <workItem from="1764690365949" duration="242000" />
       <workItem from="1764692101479" duration="2625000" />
+      <workItem from="1765901311349" duration="285000" />
+      <workItem from="1765901620705" duration="906000" />
+      <workItem from="1766505877336" duration="3421000" />
     </task>
     <servers />
   </component>

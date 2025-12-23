@@ -1,3 +1,3 @@
 ﻿D:\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (EgersLesson.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  ifElse.cpp
+  loopWhile.cpp
   EgersLesson.vcxproj -> D:\Lessons_prt2\C++\EgersLesson\x64\Debug\EdgarsLesson.exe
