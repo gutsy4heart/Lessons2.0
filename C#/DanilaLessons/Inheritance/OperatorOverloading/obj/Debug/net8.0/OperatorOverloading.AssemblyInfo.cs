@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OperatorOverloading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b620aeedf39ce4769b635ad97c2cfd867cae1f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6aac5174989fa39d84b0088bc85572996a7c2a5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OperatorOverloading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OperatorOverloading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
