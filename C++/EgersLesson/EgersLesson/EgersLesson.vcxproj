@@ -124,14 +124,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="arrays.cpp" />
     <ClCompile Include="datatypes.cpp" />
     <ClCompile Include="doWhile.cpp" />
     <ClCompile Include="elseIf.cpp" />
     <ClCompile Include="for.cpp" />
+    <ClCompile Include="forLoop.cpp" />
     <ClCompile Include="gameDoWhile1.cpp" />
     <ClCompile Include="gameDoWhile2.cpp" />
     <ClCompile Include="hw1.cpp" />
     <ClCompile Include="hw2.cpp" />
+    <ClCompile Include="hw3.cpp" />
     <ClCompile Include="ifElse.cpp" />
     <ClCompile Include="Intro.cpp" />
     <ClCompile Include="loopWhile.cpp" />

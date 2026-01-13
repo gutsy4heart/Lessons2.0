@@ -56,3 +56,20 @@
 //
 // }
 // console.log(counter);
+
+
+// const user = {
+//   name: "Artem",
+//   age: 18,
+//   skills: ["js", "next,js"],
+//   address: { city: "Riga", zip: 12345 }
+// };
+//
+// console.log(user);
+// console.log("-----------------")
+// const copyUser = {
+//     ...user,
+//     skills: [...user.skills],
+//     address: {...user.address}
+// }
+// console.log(copyUser);

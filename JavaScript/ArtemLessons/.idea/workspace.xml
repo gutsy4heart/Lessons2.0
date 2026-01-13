@@ -8,7 +8,7 @@
       <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/CopilotIndices/17.14.1518.61961/CodeChunks.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/CopilotIndices/17.14.1518.61961/CodeChunks.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/CopilotIndices/17.14.1518.61961/SemanticSymbols.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/CopilotIndices/17.14.1518.61961/SemanticSymbols.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/FileContentIndex/c5fdfafe-6be4-496c-bb48-baba7db28783.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/FileContentIndex/71bb243f-667d-4aae-ad82-eb5a31631ea8.vsidx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/.futdcache.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/.vs/OOPDanila/v17/DocumentLayout.backup.json" afterDir="false" />
@@ -39,19 +39,28 @@
       <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/FileContentIndex/c1ef6e20-5c80-4053-8e4a-5f808bbb2003.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Yield/obj/Debug/net8.0/Yield.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Yield/obj/Debug/net8.0/Yield.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Yield/obj/Debug/net8.0/Yield.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/DanilaLessons/Inheritance/Yield/obj/Debug/net8.0/Yield.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/FileContentIndex/434c4f6a-9de6-4f4b-8486-5ae71c17a2db.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/FileContentIndex/9a528925-1f9f-4898-a497-ba7f0141c061.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/FileContentIndex/a674692f-7ab9-49ea-8be9-b7bac028e9e4.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/FileContentIndex/a9145620-b21b-4107-ba0f-f7318087b909.vsidx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/Browse.VC.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/DocumentLayout.backup.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/.vs/EdgarsLesson/v17/DocumentLayout.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/ifElse.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/ifElse.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/loopWhile.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/loopWhile.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/EgersLesson.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/EgersLesson.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/EgersLesson.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/EgersLesson.vcxproj.filters" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/CL.command.1.tlog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/CL.read.1.tlog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/Cl.items.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/Cl.items.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/link.secondary.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/link.secondary.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EdgarsLesson.tlog/link.write.1.tlog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EgersLesson.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/EgersLesson.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/ifElse.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/ifElse.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/loopWhile.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/loopWhile.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/vc143.idb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/EgersLesson/EgersLesson/x64/Debug/vc143.pdb" afterDir="false" />
@@ -90,10 +99,13 @@
     "Node.js.loop.js.executor": "Run",
     "Node.js.main.js.executor": "Run",
     "Node.js.objects.js.executor": "Run",
+    "Node.js.strings.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,6 +113,7 @@
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/Lessons_prt2/JavaScript/ArtemLessons/src/main.js",
     "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -123,6 +136,8 @@
       <workItem from="1765901311349" duration="285000" />
       <workItem from="1765901620705" duration="906000" />
       <workItem from="1766505877336" duration="3421000" />
+      <workItem from="1767716893097" duration="8000" />
+      <workItem from="1767716910105" duration="2121000" />
     </task>
     <servers />
   </component>
