@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<style>
+    body{
+        font-family: Arial, sans-serif;
+        background: #0f1218;
+        color:#e9eef7;
+        padding: 24px;
+    }
+    .row{
+        display: flex;
+        gap: 16px;
+        flex-wrap: wrap;
+    }
+    .box{
+        width: 140px;
+        height: 140px;
+        border-radius: 16px;
+        background: #151a23;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 700;
+
+        transition: tranform 0.25s ease;
+        user-select: none;
+    }
+    .move:hover{
+        transform: translate(10px, -10px);
+    }
+    .scale:hover{
+        transform: scale(1.12);
+    }
+    .rotate:hover{
+        transform: rotate(12deg);
+    }
+    .skew:hover{
+        transform: skew(10deg, 0deg)
+    }
+    .origin{
+        transform-origin: left bottom;
+    }
+    .origin:hover{
+        transform: rotate(-10deg) scale(1.05);
+    }
+</style>
+</head>
+<body>
+
+<h2 style="margin: 0 0 12px">Transform</h2>
+
+<div class="row">
+    <div class="box move">translate</div>
+    <div class="box scale">scale</div>
+    <div class="box rotate">rotate</div>
+    <div class="box skew">skew</div>
+    <div class="box origin">origin</div>
+</div>
+</body>
+</html>
